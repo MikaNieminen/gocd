@@ -260,7 +260,7 @@
     <entry key="CANNOT_TURN_OFF_AUTO_LOGIN">Cannot disable auto login with no admins enabled.</entry>
     <entry key="WIZARD_STEP">Step {0}:</entry>
     <entry key="ADD_PIPELINES">Add Pipelines</entry>
-    <entry key="ADD_PIPELINE">Add Pipeline</entry>
+    <entry key="ADD_PIPELINE">Add Andon Pipeline</entry>
     <entry key="ADD_AGENTS">Add Agents</entry>
     <entry key="ADD_ENV_VARIABLES">Add Environment Variables</entry>
     <entry key="PIPELINES_TO_ADD">Pipelines to add:</entry>
